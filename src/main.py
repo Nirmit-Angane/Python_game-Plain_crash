@@ -22,7 +22,7 @@ pygame.display.set_caption('Plane 911 Game')
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 LIGHT_BLUE = (173, 216, 230)
-
+# charge the files local path
 plane_image = pygame.image.load('C:/coding_files/PROJECT/Python_game-Plain_crash/assets/plane2.png')
 tower_image = pygame.image.load('C:/coding_files/PROJECT/Python_game-Plain_crash/assets/2tower.png')
 cloud_image = pygame.image.load('C:/coding_files/PROJECT/Python_game-Plain_crash/assets/cloud_image.png')
